@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "飞书 CLI",
+    "description": "把飞书/Lark CLI（lark-cli）接入 DeepSeek Harness：提供 feishu_cli 工具，以及覆盖电子表格、多维表格、云文档、云空间、消息、日历、邮箱等全部 lark-* skill 目录。"
+  }
+}

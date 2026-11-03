@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Feishu CLI",
+    "description": "Adds the Feishu/Lark CLI (lark-cli) to DeepSeek Harness: the feishu_cli tool plus the full lark-* skill catalog for spreadsheets, bitable, docs, drive, chat, calendar, mail and more."
+  }
+}
